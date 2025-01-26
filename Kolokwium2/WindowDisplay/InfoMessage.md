@@ -1,3 +1,4 @@
+```java
 package WindowDisplay;
 
 public class InfoMessage implements Message {
@@ -7,3 +8,4 @@ public class InfoMessage implements Message {
         System.out.println("InfoMessage");
     }
 }
+```
