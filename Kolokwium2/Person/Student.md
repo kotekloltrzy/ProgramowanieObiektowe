@@ -1,3 +1,4 @@
+```java
 package Person;
 
 public class Student extends Person {
@@ -8,3 +9,4 @@ public class Student extends Person {
         this.średnia=średnia;
     }
 }
+```
