@@ -1,3 +1,4 @@
+```java
 package Person;
 
 public class TestPerson {
@@ -16,3 +17,4 @@ public class TestPerson {
         System.out.println(compareObjects(p1, s2));
     }
 }
+```
