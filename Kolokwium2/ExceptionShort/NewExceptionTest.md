@@ -1,3 +1,4 @@
+```java
 package ExceptionShort;
 
 import java.util.InputMismatchException;
@@ -22,3 +23,4 @@ public class NewExceptionTest {
         }
     }
 }
+```
