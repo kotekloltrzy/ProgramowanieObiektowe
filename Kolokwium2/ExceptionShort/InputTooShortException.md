@@ -1,3 +1,4 @@
+```java
 package ExceptionShort;
 
 public class InputTooShortException extends Exception {
@@ -5,3 +6,4 @@ public class InputTooShortException extends Exception {
         super(message);
     }
 }
+```
