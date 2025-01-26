@@ -1,3 +1,4 @@
+```java
 package WindowDisplay;
 
 interface Message{
@@ -23,3 +24,4 @@ public class WindowDisplay {
         this.message = message;
     }
 }
+```
