@@ -1,3 +1,4 @@
+```java
 package WindowDisplay;
 
 public class ErrorMessage implements Message {
@@ -6,3 +7,4 @@ public class ErrorMessage implements Message {
         System.out.println("Error");
     }
 }
+```
