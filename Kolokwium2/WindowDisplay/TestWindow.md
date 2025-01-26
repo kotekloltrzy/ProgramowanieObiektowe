@@ -1,3 +1,4 @@
+```java
 package WindowDisplay;
 
 public class TestWindow {
@@ -8,3 +9,4 @@ public class TestWindow {
         wd.showMessage();
     }
 }
+```
