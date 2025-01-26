@@ -1,3 +1,4 @@
+```java
 package Book;
 
 public record Book(String title, String author, int pages) {
@@ -10,3 +11,4 @@ public record Book(String title, String author, int pages) {
         return pages >= 400;
     }
 }
+```
